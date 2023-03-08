@@ -1,0 +1,3 @@
+function getHate() {
+  return 'hate'
+}
